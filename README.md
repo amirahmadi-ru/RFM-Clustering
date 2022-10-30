@@ -1,3 +1,4 @@
 # RFM Clustering
-RFM : Recency, Frequency, Monetary Analysis
 Customers Segmentation With RFM Analysis.
+
+RFM : Recency, Frequency, Monetary Analysis
